@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4+gBhwOABSj9qJ/ASqNXuv46k0kFdYBAk/Hu9yAoYcX7C5tJmi60YQffEm4fKXtnkCTIiLSknTMJPkGUqFYCQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/projects/brimit/Brimit.ReportingV2/Api/Web.Api.Database/Web.Api.Database.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
